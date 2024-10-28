@@ -1,0 +1,109 @@
+/*# sourceMappingURL=Register.css.map */
+
+
+  .app {
+    font-family: Arial, sans-serif;
+    background-color: #0b0048;
+    color: white;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .form-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .logo h1 {
+    color: #ff5722;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-bottom: 30px;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  .input-group input, .input-group select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  .register-button {
+    background-color: #00a651;
+    color: white;
+    padding: 12px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .promo-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .winner-image img {
+    width: 200px;
+    border-radius: 50%;
+    border: 8px solid #ffd700;
+    margin-right: 20px;
+  }
+  
+  .promo-info {
+    text-align: left;
+    color: white;
+  }
+  
+  .promo-info h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .promo-info p {
+    margin: 5px 0;
+    font-size: 18px;
+  }
+  
+  .prize-amount {
+    font-size: 60px;
+    font-weight: bold;
+    color: #ffd700;
+  }
+  
+  .highlight {
+    color: #ffd700;
+  }
+  
+  footer {
+    margin-top: 30px;
+    text-align: center;
+    color: #888;
+    font-size: 14px;
+  }
+  
